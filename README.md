@@ -5,5 +5,5 @@ Generates a gaussian kernel and prints it out, first argument is the radius of t
 
 Usage
 ----------
-./pygauss _radius_ _sd_
+./gausskernelvisualise.py _radius_ _sd_
 
